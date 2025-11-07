@@ -8,5 +8,6 @@ This template provides a simple, structured starting point for building new idea
 
 > Replace the following variables (e.g., `git-repo-name`) with your project details using your editor's `find-and-replace` tool.
 
+- crate-package-name: the Crate package name
 - git-org-name: the Git organization name
 - git-repo-name: the Git repository name
