@@ -1,0 +1,6 @@
+[package]
+name = "crate-package-name"
+version = "0.0.1"
+edition = "2021"
+repository = "https://github.com/git-organization-name/git-repo-name"
+homepage = "https://github.com/git-organization-name/git-repo-name"
